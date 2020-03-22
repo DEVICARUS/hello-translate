@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container text-center text-light">
+    <div style="height:40vh"></div>
+    <div>
+        <h1><a href="{{ language_to_link }}" target="_blank">{{ language_to }}</a></h1>
+        <h3>{{ original }} <i class="fa fa-arrow-right fa-xs" aria-hidden="true"></i> {{ translated }}</h3>
+    </div>
+</div>
+{% endblock %}

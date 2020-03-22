@@ -1,0 +1,522 @@
+[
+    {
+        "code": "af",
+        "name": "Afrikaans",
+        "link": "https://en.wikipedia.org/wiki/Afrikaans"
+    },
+    {
+        "code": "sq",
+        "name": "Albanian",
+        "link": "https://en.wikipedia.org/wiki/Albanian_language"
+    },
+    {
+        "code": "am",
+        "name": "Amharic",
+        "link": "https://en.wikipedia.org/wiki/Amharic"
+    },
+    {
+        "code": "ar",
+        "name": "Arabic",
+        "link": "https://en.wikipedia.org/wiki/Arabs"
+    },
+    {
+        "code": "hy",
+        "name": "Armenian",
+        "link": "https://en.wikipedia.org/wiki/Armenian_language"
+    },
+    {
+        "code": "az",
+        "name": "Azerbaijani",
+        "link": "https://en.wikipedia.org/wiki/Azerbaijani_language"
+    },
+    {
+        "code": "eu",
+        "name": "Basque",
+        "link": "https://en.wikipedia.org/wiki/Basque_language"
+    },
+    {
+        "code": "be",
+        "name": "Belarusian",
+        "link": "https://en.wikipedia.org/wiki/Belarusian_language"
+    },
+    {
+        "code": "bn",
+        "name": "Bengali",
+        "link": "https://en.wikipedia.org/wiki/Bengali_language"
+    },
+    {
+        "code": "bs",
+        "name": "Bosnian",
+        "link": "https://en.wikipedia.org/wiki/Bosnian_language"
+    },
+    {
+        "code": "bg",
+        "name": "Bulgarian",
+        "link": "https://en.wikipedia.org/wiki/Bulgarian_language"
+    },
+    {
+        "code": "ca",
+        "name": "Catalan",
+        "link": "https://en.wikipedia.org/wiki/Catalan_language"
+    },
+    {
+        "code": "ceb",
+        "name": "Cebuano",
+        "link": "https://en.wikipedia.org/wiki/Cebuano_language"
+    },
+    {
+        "code": "ny",
+        "name": "Chichewa",
+        "link": "https://en.wikipedia.org/wiki/Chewa_language"
+    },
+    {
+        "code": "zh-CN",
+        "name": "Chinese (simplified)",
+        "link": "https://en.wikipedia.org/wiki/Simplified_Chinese_characters"
+    },
+    {
+        "code": "zh-TW",
+        "name": "Chinese (traditional)",
+        "link": "https://en.wikipedia.org/wiki/Traditional_Chinese_characters"
+    },
+    {
+        "code": "co",
+        "name": "Corsican",
+        "link": "https://en.wikipedia.org/wiki/Corsican_language"
+    },
+    {
+        "code": "hr",
+        "name": "Croatian",
+        "link": "https://en.wikipedia.org/wiki/Croatian_language"
+    },
+    {
+        "code": "cs",
+        "name": "Czech",
+        "link": "https://en.wikipedia.org/wiki/Czech_language"
+    },
+    {
+        "code": "da",
+        "name": "Danish",
+        "link": "https://en.wikipedia.org/wiki/Danish_language"
+    },
+    {
+        "code": "nl",
+        "name": "Dutch",
+        "link": "https://en.wikipedia.org/wiki/Dutch_language"
+    },
+    {
+        "code": "en",
+        "name": "English",
+        "link": "https://en.wikipedia.org/wiki/English_language"
+    },
+    {
+        "code": "eo",
+        "name": "Esperanto",
+        "link": "https://en.wikipedia.org/wiki/Esperanto"
+    },
+    {
+        "code": "et",
+        "name": "Estonian",
+        "link": "https://en.wikipedia.org/wiki/Estonian_language"
+    },
+    {
+        "code": "tl",
+        "name": "Filipino",
+        "link": "https://en.wikipedia.org/wiki/Filipino_language"
+    },
+    {
+        "code": "fi",
+        "name": "Finnish",
+        "link": "https://en.wikipedia.org/wiki/Finnish_language"
+    },
+    {
+        "code": "fr",
+        "name": "French",
+        "link": "https://en.wikipedia.org/wiki/French_language"
+    },
+    {
+        "code": "fy",
+        "name": "Frisian",
+        "link": "https://en.wikipedia.org/wiki/Frisian_languages"
+    },
+    {
+        "code": "gl",
+        "name": "Galician",
+        "link": "https://en.wikipedia.org/wiki/Galician_language"
+    },
+    {
+        "code": "ka",
+        "name": "Georgian",
+        "link": "https://en.wikipedia.org/wiki/Georgian_language"
+    },
+    {
+        "code": "de",
+        "name": "German",
+        "link": "https://en.wikipedia.org/wiki/German_language"
+    },
+    {
+        "code": "el",
+        "name": "Greek",
+        "link": "https://en.wikipedia.org/wiki/Greek_language"
+    },
+    {
+        "code": "gu",
+        "name": "Gujarati",
+        "link": "https://en.wikipedia.org/wiki/Gujarati_language"
+    },
+    {
+        "code": "ht",
+        "name": "Haitian creole",
+        "link": "https://en.wikipedia.org/wiki/Haitian_Creole"
+    },
+    {
+        "code": "ha",
+        "name": "Hausa",
+        "link": "https://en.wikipedia.org/wiki/Hausa_language"
+    },
+    {
+        "code": "haw",
+        "name": "Hawaiian",
+        "link": "https://en.wikipedia.org/wiki/Hawaiian_language"
+    },
+    {
+        "code": "iw",
+        "name": "Hebrew",
+        "link": "https://en.wikipedia.org/wiki/Hebrew_language"
+    },
+    {
+        "code": "hi",
+        "name": "Hindi",
+        "link": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+        "code": "hmn",
+        "name": "Hmong",
+        "link": "https://en.wikipedia.org/wiki/Hmong_language"
+    },
+    {
+        "code": "hu",
+        "name": "Hungarian",
+        "link": "https://en.wikipedia.org/wiki/Hungarian_language"
+    },
+    {
+        "code": "is",
+        "name": "Icelandic",
+        "link": "https://en.wikipedia.org/wiki/Icelandic_language"
+    },
+    {
+        "code": "ig",
+        "name": "Igbo",
+        "link": "https://en.wikipedia.org/wiki/Igbo_language"
+    },
+    {
+        "code": "id",
+        "name": "Indonesian",
+        "link": "https://en.wikipedia.org/wiki/Indonesian_language"
+    },
+    {
+        "code": "ga",
+        "name": "Irish",
+        "link": "https://en.wikipedia.org/wiki/Irish_language"
+    },
+    {
+        "code": "it",
+        "name": "Italian",
+        "link": "https://en.wikipedia.org/wiki/Italian_language"
+    },
+    {
+        "code": "ja",
+        "name": "Japanese",
+        "link": "https://en.wikipedia.org/wiki/Japanese_language"
+    },
+    {
+        "code": "jw",
+        "name": "Javanese",
+        "link": "https://en.wikipedia.org/wiki/Javanese_language"
+    },
+    {
+        "code": "kn",
+        "name": "Kannada",
+        "link": "https://en.wikipedia.org/wiki/Kannada"
+    },
+    {
+        "code": "kk",
+        "name": "Kazakh",
+        "link": "https://en.wikipedia.org/wiki/Kazakh_language"
+    },
+    {
+        "code": "km",
+        "name": "Khmer",
+        "link": "https://en.wikipedia.org/wiki/Khmer_language"
+    },
+    {
+        "code": "ko",
+        "name": "Korean",
+        "link": "https://en.wikipedia.org/wiki/Korean_language"
+    },
+    {
+        "code": "ku",
+        "name": "Kurdish (kurmanji)",
+        "link": "https://en.wikipedia.org/wiki/Kurmanji"
+    },
+    {
+        "code": "ky",
+        "name": "Kyrgyz",
+        "link": "https://en.wikipedia.org/wiki/Kyrgyz_language"
+    },
+    {
+        "code": "lo",
+        "name": "Lao",
+        "link": "https://en.wikipedia.org/wiki/Lao_language"
+    },
+    {
+        "code": "la",
+        "name": "Latin",
+        "link": "https://en.wikipedia.org/wiki/Latin"
+    },
+    {
+        "code": "lv",
+        "name": "Latvian",
+        "link": "https://en.wikipedia.org/wiki/Latvian_language"
+    },
+    {
+        "code": "lt",
+        "name": "Lithuanian",
+        "link": "https://en.wikipedia.org/wiki/Lithuanian_language"
+    },
+    {
+        "code": "lb",
+        "name": "Luxembourgish",
+        "link": "https://en.wikipedia.org/wiki/Luxembourgish"
+    },
+    {
+        "code": "mk",
+        "name": "Macedonian",
+        "link": "https://en.wikipedia.org/wiki/Macedonian_language"
+    },
+    {
+        "code": "mg",
+        "name": "Malagasy",
+        "link": "https://en.wikipedia.org/wiki/Malagasy_language"
+    },
+    {
+        "code": "ms",
+        "name": "Malay",
+        "link": "https://en.wikipedia.org/wiki/Malay_language"
+    },
+    {
+        "code": "ml",
+        "name": "Malayalam",
+        "link": "https://en.wikipedia.org/wiki/Malayalam"
+    },
+    {
+        "code": "mt",
+        "name": "Maltese",
+        "link": "https://en.wikipedia.org/wiki/Maltese_language"
+    },
+    {
+        "code": "mi",
+        "name": "Maori",
+        "link": "https://en.wikipedia.org/wiki/M%C4%81ori_language"
+    },
+    {
+        "code": "mr",
+        "name": "Marathi",
+        "link": "https://en.wikipedia.org/wiki/Marathi_language"
+    },
+    {
+        "code": "mn",
+        "name": "Mongolian",
+        "link": "https://en.wikipedia.org/wiki/Mongolian_language"
+    },
+    {
+        "code": "my",
+        "name": "Myanmar (burmese)",
+        "link": "https://en.wikipedia.org/wiki/Burmese_language"
+    },
+    {
+        "code": "ne",
+        "name": "Nepali",
+        "link": "https://en.wikipedia.org/wiki/Nepali_language"
+    },
+    {
+        "code": "no",
+        "name": "Norwegian",
+        "link": "https://en.wikipedia.org/wiki/Norwegian_language"
+    },
+    {
+        "code": "ps",
+        "name": "Pashto",
+        "link": "https://en.wikipedia.org/wiki/Pashto"
+    },
+    {
+        "code": "fa",
+        "name": "Persian",
+        "link": "https://en.wikipedia.org/wiki/Persian_language"
+    },
+    {
+        "code": "pl",
+        "name": "Polish",
+        "link": "https://en.wikipedia.org/wiki/Polish_language"
+    },
+    {
+        "code": "pt",
+        "name": "Portuguese",
+        "link": "https://en.wikipedia.org/wiki/Portuguese_language"
+    },
+    {
+        "code": "pa",
+        "name": "Punjabi",
+        "link": "https://en.wikipedia.org/wiki/Punjabi_language"
+    },
+    {
+        "code": "ro",
+        "name": "Romanian",
+        "link": "https://en.wikipedia.org/wiki/Romanian_language"
+    },
+    {
+        "code": "ru",
+        "name": "Russian",
+        "link": "https://en.wikipedia.org/wiki/Russian_language"
+    },
+    {
+        "code": "sm",
+        "name": "Samoan",
+        "link": "https://en.wikipedia.org/wiki/Samoan_language"
+    },
+    {
+        "code": "gd",
+        "name": "Scots gaelic",
+        "link": "https://en.wikipedia.org/wiki/Scottish_Gaelic"
+    },
+    {
+        "code": "sr",
+        "name": "Serbian",
+        "link": "https://en.wikipedia.org/wiki/Serbian_language"
+    },
+    {
+        "code": "st",
+        "name": "Sesotho",
+        "link": "https://en.wikipedia.org/wiki/Sotho_language"
+    },
+    {
+        "code": "sn",
+        "name": "Shona",
+        "link": "https://en.wikipedia.org/wiki/Shona_language"
+    },
+    {
+        "code": "sd",
+        "name": "Sindhi",
+        "link": "https://en.wikipedia.org/wiki/Sindhi_language"
+    },
+    {
+        "code": "si",
+        "name": "Sinhala",
+        "link": "https://en.wikipedia.org/wiki/Sinhala_language"
+    },
+    {
+        "code": "sk",
+        "name": "Slovak",
+        "link": "https://en.wikipedia.org/wiki/Slovak_language"
+    },
+    {
+        "code": "sl",
+        "name": "Slovenian",
+        "link": "https://en.wikipedia.org/wiki/Slovene_language"
+    },
+    {
+        "code": "so",
+        "name": "Somali",
+        "link": "https://en.wikipedia.org/wiki/Somali_language"
+    },
+    {
+        "code": "es",
+        "name": "Spanish",
+        "link": "https://en.wikipedia.org/wiki/Spanish_language"
+    },
+    {
+        "code": "su",
+        "name": "Sundanese",
+        "link": "https://en.wikipedia.org/wiki/Sundanese_language"
+    },
+    {
+        "code": "sw",
+        "name": "Swahili",
+        "link": "https://en.wikipedia.org/wiki/Swahili_language"
+    },
+    {
+        "code": "sv",
+        "name": "Swedish",
+        "link": "https://en.wikipedia.org/wiki/Swedish_language"
+    },
+    {
+        "code": "tg",
+        "name": "Tajik",
+        "link": "https://en.wikipedia.org/wiki/Tajik_language"
+    },
+    {
+        "code": "ta",
+        "name": "Tamil",
+        "link": "https://en.wikipedia.org/wiki/Tamil_language"
+    },
+    {
+        "code": "te",
+        "name": "Telugu",
+        "link": "https://en.wikipedia.org/wiki/Telugu_language"
+    },
+    {
+        "code": "th",
+        "name": "Thai",
+        "link": "https://en.wikipedia.org/wiki/Thai_language"
+    },
+    {
+        "code": "tr",
+        "name": "Turkish",
+        "link": "https://en.wikipedia.org/wiki/Turkish_language"
+    },
+    {
+        "code": "uk",
+        "name": "Ukrainian",
+        "link": "https://en.wikipedia.org/wiki/Ukrainian_language"
+    },
+    {
+        "code": "ur",
+        "name": "Urdu",
+        "link": "https://en.wikipedia.org/wiki/Urdu"
+    },
+    {
+        "code": "uz",
+        "name": "Uzbek",
+        "link": "https://en.wikipedia.org/wiki/Uzbek_language"
+    },
+    {
+        "code": "vi",
+        "name": "Vietnamese",
+        "link": "https://en.wikipedia.org/wiki/Vietnamese_language"
+    },
+    {
+        "code": "cy",
+        "name": "Welsh",
+        "link": "https://en.wikipedia.org/wiki/Welsh_language"
+    },
+    {
+        "code": "xh",
+        "name": "Xhosa",
+        "link": "https://en.wikipedia.org/wiki/Xhosa_language"
+    },
+    {
+        "code": "yi",
+        "name": "Yiddish",
+        "link": "https://en.wikipedia.org/wiki/Yiddish"
+    },
+    {
+        "code": "yo",
+        "name": "Yoruba",
+        "link": "https://en.wikipedia.org/wiki/Yoruba_language"
+    },
+    {
+        "code": "zu",
+        "name": "Zulu",
+        "link": "https://en.wikipedia.org/wiki/Zulu_language"
+    }
+]
